@@ -1,5 +1,5 @@
-# fa20-nmep
-Skeleton Code for Homeworks and Projects for Machine Learning at Berkeley's New Member Education Program for Fall 2020.
+# sp21-nmep
+Skeleton Code for Homeworks and Projects for Machine Learning at Berkeley's New Member Education Program for Spring 2021.
 
 ## Homework Release
 Homeworks will be pushed weekly on Mondays after lecture. Please pull new changes and complete the assignments by the following Monday.
